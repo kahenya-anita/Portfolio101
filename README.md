@@ -7,7 +7,8 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-- 
+- ![Screenshot 2023-09-18 at 5 28 42 PM](https://github.com/kahenya-anita/Portfolio101/assets/62019551/93aa6934-3d3b-4a8a-ab2a-644cb4b0a26a)
+
 - 
 
 
